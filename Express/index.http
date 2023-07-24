@@ -1,0 +1,13 @@
+# POST http://localhost:3000/registrar
+# Content-Type: application/json
+
+# {
+#   "nombre": "franco buenas nuevas   ",
+#   "email": "franco@example.com",
+#   "edad": 24
+# }
+
+
+DELETE http://localhost:3000/
+
+

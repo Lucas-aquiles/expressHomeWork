@@ -1,0 +1,12 @@
+# POST http://localhost:3000/login HTTP/1.1
+# content-type: application/json
+
+# {
+#     "nombre_usuario": "franco",
+#     "contrasena": "Lmeu2023+"
+# }
+
+# GET http://localhost:3000/usuarios
+
+GET http://localhost:3000/perfil HTTP/1.1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQsInVzZXJOYW1lIjoiZnJhbmNvIiwiaWF0IjoxNjkwMDYzMzE1LCJleHAiOjE2OTAwNjY5MTV9.rOecyzdbmzJjv0rNDCpvcl-YOwRIm0Sp8bUXfO8JRhM
