@@ -8,6 +8,9 @@
 # }
 
 
-DELETE http://localhost:3000/
+PUT http://localhost:3000/user
+Content-Type: application/json
+{"firstName": "manuel" , "lastName":"Echegaray" }
+
 
 
